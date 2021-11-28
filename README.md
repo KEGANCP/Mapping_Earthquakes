@@ -25,3 +25,7 @@ The below images show both the selectable options to modify your view, as well a
 Map Options             |  Map Legend
 :-------------------------:|:-------------------------:
 ![](https://github.com/KEGANCP/Mapping_Earthquakes/blob/main/Images/options.png)  |  ![](https://github.com/KEGANCP/Mapping_Earthquakes/blob/main/Images/legends.png)
+
+----
+### Project Summary
+I utilized JavaScript and the D3.js library to identify our coordinates as well as the magnitudes of the earthquakes from the GeoJSON data. The Leaflet library was used to plot the data on a Mapbox map via an API request to generate the final view.
